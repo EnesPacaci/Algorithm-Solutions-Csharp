@@ -6,6 +6,7 @@ A collection of my algorithmic problem-solving practices and data structure impl
 * **Arrays-And-Sorting:** Practice problems focusing on array manipulation and efficient sorting techniques.
 * **HashMaps:** Solutions utilizing Dictionary structures for $O(1)$ lookups and optimized metadata tracking.
 * **Interval-Management:** Performance-oriented solutions for managing overlapping time intervals and scheduling.
+* **Two-Pointers-And-Strings:** String manipulation and Two Pointers technique for optimal array/string traversal.
 
 ### Philosophy
 * **Algorithmic Thinking:** Focusing on logic and problem decomposition.
